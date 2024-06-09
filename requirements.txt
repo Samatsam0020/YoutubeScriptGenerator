@@ -1,0 +1,8 @@
+youtube-transcript-api == 0.6.2
+python-dotenv == 1.0.1
+streamlit == 1.35.0
+langchain == 0.2.3
+openai == 1.33.0
+langchain-core == 0.2.5
+langsmith == 0.1.75
+langchain-google-genai == 1.0.6 
